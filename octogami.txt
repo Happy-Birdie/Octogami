@@ -1,0 +1,20 @@
+Basic Folds:
+Muira-ori --> miura-ori.py
+Yoshimurua-ori --> yoshimurua.py
+
+Working 2D movent:
+Waterbomb (2D) --> waterbomb.py
+
+4D movent:
+Waterbomb (4D) --> waterbomb4D.py
+Kirigami --> kirigami.py
+Conical Muira-ori
+Conical 
+
+
+***
+iterate many kirigami for multiple sizes so you can print all at once 
+    & fix cut & crease separation
+fninish 4D waterbomb
+finish conical
+***
