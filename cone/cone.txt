@@ -1,1 +1,4 @@
-cone stuff
+cone stuff: 
+drawfold.py
+miura.py
+miuraFunct.py
